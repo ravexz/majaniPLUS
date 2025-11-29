@@ -1,0 +1,8 @@
+{
+  "name": "Majani Gold - Tea Collection",
+  "description": "A comprehensive tea leaf collection system for Kenya, featuring a mobile field app for clerks and an admin dashboard with AI-driven harvest insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
