@@ -129,7 +129,7 @@ npm run preview
 
 ## 🌐 Live Demo
 
-Experience the full application at: [https://ravexz.github.io/majaniPLUS](https://ravexz.github.io/majaniPLUS)
+Experience the full application at: [https://leafweigh.netlify.app/]
 
 ## 📈 System Benefits
 
