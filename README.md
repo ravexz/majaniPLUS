@@ -1,6 +1,6 @@
 # Majani Gold - Tea Collection Management System
 
-A comprehensive digital solution for tea collection and farmer management, designed for Majani Gold tea estates. This web-based application streamlines the entire tea supply chain from collection to payroll, featuring role-based access control, AI-powered quality assessment, and mobile-optimized interfaces.
+A comprehensive digital solution for tea collection and farmer management, designed for perishable good purchase (tea). This web-based application streamlines the entire tea supply chain from collection to payroll, featuring role-based access control, AI-powered quality assessment, and mobile-optimized interfaces.
 
 ## 🌟 Key Capabilities
 
@@ -160,4 +160,4 @@ Proprietary software - Majani Gold Internal Use Only
 
 **Version**: 1.2.0
 **Last Updated**: November 2025
-**Powered by**: Gemini AI Integration
+**Powered by**: Ronoh
